@@ -1,6 +1,6 @@
 # Jasmin Francisco - Projects
 
-A collection of the projects I've built, ideas I've explored, and experiments I've worked on in computer vision and machine learning.
+A collection of projects I've built and worked on in computer vision and machine learning. Feel free to explore!
 
 ---
 
